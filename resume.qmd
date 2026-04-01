@@ -1,89 +1,175 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Moroni Montoya's Portfolio
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Moroni Montoya
+Student at BYU-Idaho | Pursuing a B.S. in Computer Science
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="moronimontoya04@gmail.com">moronimontoya04@gmail.com</a>
+| <a href="https://github.com/Moroni-MB">My GitHub page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am a Computer Science student at BYU-Idaho with a strong interest in software development, problem-solving, and building practical applications. I enjoy creating projects that combine functionality and user experience, and I am currently expanding my skills in Python, C#, Machine Learning and web development.
+
+I am actively preparing for future internship opportunities (Winter, Summer, and Fall 2027) where I can contribute to real-world software solutions and continue growing as a developer.
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Python and C# programming  
+- Object-oriented programming (OOP)  
+- Web development fundamentals (HTML, CSS, JavaScript)  
+- Building interactive applications and GUIs  
+- Problem-solving and algorithmic thinking
+- Mobile App development (Dart)  
 
 
-### Research interests
+### Technical Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Software development and application design  
+- AI-assisted tools and personal assistant systems (JARVIS project)  
+- Web applications and dynamic user interfaces  
+- Data structures and performance optimization  
+- Automation and productivity tools  
+- Mobile App development (Sprout and iTravel)
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2024 - Present`  
+__Brigham Young University–Idaho__, Rexburg, ID  
+- Bachelor of Science in Computer Science  
+- Relevant coursework: Programming with Classes, Data Structures, Web Development  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017 - 2022`  
+__Higley High School__, Arizona  
+- High School Diploma  
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2019 - 2021`  
+__East Valley Institute of Technology__, Arizona  
+- Computer Programming Certification  
 
 
+## Experience
+`2026 - Present`  
+__BYU-Idaho Support Center__, Rexburg, ID  
+*AI Data Analist*  
+- Analyzed 1,000+ data records to provide data-driven insights on strengths and optimization opportunities
+- Applied analytical techniques to uncover the top-3 performance patterns and improvement areas 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2025 - Present`  
+__BYU-Idaho Support Center__, Rexburg, ID  
+*Communications Team Lead*  
+- Reduced 3 minutes in average help times by integrating AI tools with internal knowledge bases
+- Led team of 4 to #1 ranking among 10 teams through coaching and workflow optimization
+- Increased QA scores and CSAT ratings through targeted 1-on-1 performance coaching
 
 
-## Occupation
+`Previous Roles`
 
-`1600`
-__Royal Mint__, London
+`2024 - 2025`  
+__BYU-Idaho Support Center__, Rexburg, ID  
+*Communication Specialist*  
+- Ranked top-performing agent among 100+ support specialists for 5 consecutive weeks
+- Achieved #1 customer satisfaction (CSAT) ranking for 5+ consecutive weeks
+- Served 1,000+ customers while maintaining top-tier resolution speed and CSAT
+  
+__Other Positions__  
+- Car Photographer & Car Lot Attendant  
+- Pool Technician  
+- Developed strong work ethic, attention to detail, and time management skills  
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Projects
+### Sprout (Adulting App) – Flutter, Firebase
+- Developed a mobile app focused on helping users build habits and track life responsibilities  
+- Implemented features such as task completion tracking, progress points, and user interaction  
+- Integrated Firebase for authentication and data storage  
+- Collaborated using Git and GitHub in a team development environment  
 
+
+### Tron Game – Python
+- Built a grid-based Tron-style game with player and AI movement  
+- Implemented collision detection, trail mechanics, and game-over logic  
+- Designed enemy AI that avoids walls, prevents reverse movement, and reacts dynamically  
+- Planning advanced AI behavior to strategically trap the player  
+
+
+### iTravel – Mobile Application
+- Developed a travel-focused mobile application for exploring destinations and planning trips  
+- Designed interactive UI components using Flutter  
+- Focused on user experience and clean interface design  
+- Strengthened front-end development and project structuring skills  
+
+
+### Canvas Assistant – Automation Tool
+- Created a Google Chrome extension to assist with navigating and managing tasks within Canvas  
+- Focused on improving student productivity and workflow automation  
+- Explored integration with APIs and structured data handling  
+- Designed with scalability for future academic tools in mind 
+
+### Workout Generator App (Python, Tkinter)
+- Designed a GUI-based application that generates personalized workout routines  
+- Focused on usability and structured program design  
+- Demonstrates understanding of event-driven programming  
+
+### JARVIS Assistant (Python)
+- Developing a personal assistant program with voice and text interaction  
+- Planned features include task automation, information retrieval, and app control  
+- Structured with modular and scalable architecture  
+
+### Water Flow Calculator (Python)
+- Built a physics-based program to calculate water pressure loss  
+- Implemented formulas and unit testing for accuracy  
+- Strengthened understanding of real-world problem modeling  
+
+### Interactive Web Projects
+- Created dynamic web pages using HTML, CSS, and JavaScript  
+- Focused on user interaction and responsive design  
+
+
+## Skills
+
+**Programming Languages:**  
+Python, C#, C, JavaScript, Dart  
+
+**Web Technologies:**  
+HTML, CSS, basic front-end development  
+
+**Tools & Technologies:**  
+Git, GitHub, Visual Studio, VS Code, Rider  
+
+**Other Skills:**  
+- Bilingual (Spanish & English)  
+- Strong problem-solving and analytical thinking  
+- Communication and teamwork  
+
+
+## Awards & Certifications
+
+- Microsoft Certifications: Software Development Fundamentals and Intro to Programming Using Python
+
+
+## Leadership & Activities
+
+- Participated in university-organized technology visits and networking events  
+- Engaged with industry professionals to learn about real-world applications of software development  
+- Competed in a 24 hour Hackathon challenge to develop a Canvas AI assistant to help with task prioritization
+
+
+## Goals
+
+- Secure a software engineering internship (2027)  
+- Continue building impactful and scalable projects  
+- Grow as a developer and contribute to meaningful technology solutions  
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 2026
+-->
