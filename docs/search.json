@@ -300,9 +300,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Moroni Montoya",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "I’m a Computer Science student at BYU-Idaho who enjoys building practical applications that solve real problems. I specialize in Python, C#, and web development, and I’m currently focused on developing full-stack apps and intelligent tools.\nI’m actively preparing for software engineering internships (Winter, Summer, and Fall 2027)."
   },
   {
     "objectID": "index.html#title-2-header",
@@ -405,5 +405,40 @@
     "title": "Moroni Montoya’s Portfolio",
     "section": "",
     "text": "Secure a software engineering internship (2027)\n\nContinue building impactful and scalable projects\n\nGrow as a developer and contribute to meaningful technology solutions"
+  },
+  {
+    "objectID": "index.html#hi-im-moroni",
+    "href": "index.html#hi-im-moroni",
+    "title": "Moroni Montoya",
+    "section": "",
+    "text": "I’m a Computer Science student at BYU-Idaho who enjoys building practical applications that solve real problems. I specialize in Python, C#, and web development, and I’m currently focused on developing full-stack apps and intelligent tools.\nI’m actively preparing for software engineering internships (Winter, Summer, and Fall 2027)."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Moroni Montoya",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n🌱 Sprout (Adulting App)\nA mobile app built with Flutter and Firebase to help users build habits and track daily responsibilities.\n- Task tracking & progress system\n- Firebase authentication & database\n- Team-based development using Git\n👉 This is my strongest real-world app project\n\n\n\n🎮 Tron Game\nA Python-based game inspired by Tron with player vs AI mechanics.\n- Grid movement & collision detection\n- Intelligent enemy AI behavior\n- Real-time game logic\n\n\n\n✈️ iTravel Web App\nA travel-focused web application for exploring destinations.\n- Interactive UI with JavaScript\n- Clean and responsive design\n- Focus on user experience\n\n\n\n🤖 JARVIS Assistant\nA personal assistant system built in Python.\n- Voice & text interaction (planned)\n- Automation and task handling\n- Modular and scalable design"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Moroni Montoya",
+    "section": "Skills",
+    "text": "Skills\nLanguages: Python, C#, JavaScript\nWeb: HTML, CSS, Front-End Development\nTools: Git, GitHub, VS Code, Visual Studio\nOther:\n- Bilingual (English & Spanish)\n- Strong problem-solving mindset\n- Team collaboration"
+  },
+  {
+    "objectID": "index.html#what-im-looking-for",
+    "href": "index.html#what-im-looking-for",
+    "title": "Moroni Montoya",
+    "section": "What I’m Looking For",
+    "text": "What I’m Looking For\nI’m looking for opportunities to grow as a developer through internships where I can: - Contribute to real-world software projects\n- Learn from experienced engineers\n- Continue building impactful applications"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Moroni Montoya",
+    "section": "📫 Contact Me",
+    "text": "📫 Contact Me\n\nEmail: moronimontoya04@gmail.com\n\nMy GitHub\n\nMy LinkedIn"
   }
 ]

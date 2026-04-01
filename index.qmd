@@ -1,10 +1,79 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Moroni Montoya"
+subtitle: "Software Developer | Computer Science Student at BYU-Idaho"
 ---
 
-# Title 1 Header
-## Title 2 Header
+## Hi, I'm Moroni!
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I’m a Computer Science student at BYU-Idaho who enjoys building practical applications that solve real problems. I specialize in Python, C#, and web development, and I’m currently focused on developing full-stack apps and intelligent tools.
+
+I’m actively preparing for **software engineering internships (Winter, Summer, and Fall 2027)**.
+
+
+---
+
+## Featured Projects
+
+### 🌱 Sprout (Adulting App)
+A mobile app built with Flutter and Firebase to help users build habits and track daily responsibilities.  
+- Task tracking & progress system  
+- Firebase authentication & database  
+- Team-based development using Git  
+
+👉 *This is my strongest real-world app project*
+
+---
+
+### 🎮 Tron Game
+A Python-based game inspired by Tron with player vs AI mechanics.  
+- Grid movement & collision detection  
+- Intelligent enemy AI behavior  
+- Real-time game logic  
+
+---
+
+### ✈️ iTravel Web App
+A travel-focused web application for exploring destinations.  
+- Interactive UI with JavaScript  
+- Clean and responsive design  
+- Focus on user experience  
+
+---
+
+### 🤖 JARVIS Assistant
+A personal assistant system built in Python.  
+- Voice & text interaction (planned)  
+- Automation and task handling  
+- Modular and scalable design  
+
+---
+
+## Skills
+
+**Languages:** Python, C#, JavaScript  
+**Web:** HTML, CSS, Front-End Development  
+**Tools:** Git, GitHub, VS Code, Visual Studio  
+
+**Other:**  
+- Bilingual (English & Spanish)  
+- Strong problem-solving mindset  
+- Team collaboration  
+
+---
+
+## What I'm Looking For
+
+I’m looking for opportunities to grow as a developer through internships where I can:
+- Contribute to real-world software projects  
+- Learn from experienced engineers  
+- Continue building impactful applications  
+
+---
+
+## 📫 Contact Me
+
+- Email: moronimontoya04@gmail.com  
+- [My GitHub](https://github.com/Moroni-MB)  
+- [My LinkedIn](https://www.linkedin.com/in/moroni-montoya/)
+
+---
